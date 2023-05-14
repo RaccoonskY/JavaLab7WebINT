@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="JavaLab7WebINT:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>JavaLab7WebINT</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="JavaLab7WebINT-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="JavaLab7WebINT:war exploded" />
+    </root>
+  </artifact>
+</component>
